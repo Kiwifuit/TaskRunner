@@ -172,6 +172,6 @@ This whole file is about 176 lines long, so I really am happy that you checked t
 
 You can also run the script for yourself, or download the final product at both [my website](e3.mahkiwi123.repl.co/downloads.html) or at this repo, I will put up the executable when I am done with everything
 
-Oh yeah, If you are wondering how I made these markdown files or pretty much any file that ends with .md, it's as easy as [Discord's formatting system for messages](), with some modifications...
+Oh yeah, If you are wondering how I made these markdown files or pretty much any file that ends with .md, it's as easy as [Discord's formatting system for messages](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), with some modifications...
 
 Again, tysm for visiting this repo, and even reading the whole `documentation.md` file. Have a great day!

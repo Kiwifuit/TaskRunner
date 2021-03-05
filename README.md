@@ -83,7 +83,7 @@ So, I did it (in what looks like) first try...
 So, Yay to me I guess.
 
 Continuing on, all I have to do next is `withdraw()` the parent variable (`root` here), so it won't show up and shit<br>
-(side note: I renamed the file from `what-the.md` to `documentation.md`, this , might be the final name for this file I dunno):
+(side note: I renamed the file from `what-the.md` to `README.md`, this , might be the final name for this file I dunno):
 ```py
 import tkinter
 import turtle
@@ -174,4 +174,4 @@ You can also run the script for yourself, or download the final product at both 
 
 Oh yeah, If you are wondering how I made these markdown files or pretty much any file that ends with .md, it's as easy as [Discord's formatting system for messages](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), with some modifications...
 
-Again, tysm for visiting this repo, and even reading the whole `documentation.md` file. Have a great day!
+Again, tysm for visiting this repo, and even reading the whole file. Have a great day!

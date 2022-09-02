@@ -17,22 +17,20 @@ root.mainloop()
 ```
 ngl that seems unimpressive. Also, I have no fucking idea wether or not this shit will work. <sup>Epic forshadowing</sup>
 
-well fuck...<br>
+well screw...<br>
 <img src="markdown images/nice.png"><br>
 and...<br>
 <img src="markdown images/double nice.png">
 
-If your weenie 'lil brainy there tryna scratchy scratchy,
-tryna wonder wtf is wrong with this shit, VS Code is making me scratch my head by slapping me with an error
-then just say tell me that the error is both wrong and right, `True` or `False`. Either I'm stupid bc I'm a noob, or something's going on with this thing. But for now, I think I *miiiiiiiiiiiight* need Turtle...
+> *Kiwifruit from the future here, it seems that I didnt realize I imported everything from `tkinter`, which is [a bad idea in the first place](https://www.geeksforgeeks.org/why-import-star-in-python-is-a-bad-idea/), but I dunno what `tkinter` is in this case. Import stars are a bad habit and this is why*
 
 So I turned my tkinter project into a turtle one...
 -----------------------------------------------------
-Yes, you fucking seen the title right, I wiped the sript clean for the **third time** yay to me.
+Yes, you saw the title right, I wiped the sript clean for the **third time** yay to me.
 
 I actually have a reason for doing this.
 
-1) All this shit i have tried only with both the `Turtle` and `Tkinter` modules present.
+1) All this stuff I have tried only with both the `Turtle` and `Tkinter` modules present.
 2) Makes the prank more convincing, and takes a long time for ppl to realize that this shit was a prank lmfao
 
 So I did the basic code:
